@@ -1,4 +1,4 @@
-#Autocall Pricer (Monte Carlo)
+##Autocall Pricer (Monte Carlo)
 
 A minimal Python implementation of a Monte Carlo pricer for a **Phoenix autocall
 note** (a structured product commonly sold to retail and institutional clients).
