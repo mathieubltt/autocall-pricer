@@ -40,7 +40,8 @@ Graphique enregistre dans trajectoires.png
 
 Simulated underlying paths with the three barriers:
 
-![Simulated paths](trajectoires.png)
+<img width="1080" height="600" alt="trajectoires" src="https://github.com/user-attachments/assets/4d332e03-eeda-47f2-9e73-4957023a4b4e" />
+
 
 ## Parameters
 
