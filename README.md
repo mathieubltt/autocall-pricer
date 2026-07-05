@@ -33,7 +33,6 @@ Output:
 
 ```
 Prix de l'autocall : 1015.5  (pour un nominal de 1000)
-Graphique enregistre dans trajectoires.png
 ```
 
 ## Example output
